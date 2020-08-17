@@ -41,11 +41,16 @@ converted to a logarithmic domain. Then the log domain is converted into real do
 further image processing and the image is displayed.
 
 ## Results
-![Test Image](sd.jpg)
 
-![Single Scale Enhanced Image](SSR.jpg)
 
-![Multiscale Enhanced Image](MSR.jpg)
+<p>
+  <h5>Original Test Image</h5>
+  <img src="sd.jpg" width="400" title="hover text">
+  <h5>Single Scale Retinex</h5>
+  <img src="SSR.jpg" width="400" alt="accessibility text">
+  <h5>Multicale Retinex Enhancement</h5>
+  <img src="MSR.jpg" width="400" alt="accessibility text">
+</p>
 
 
 ## Contributing
