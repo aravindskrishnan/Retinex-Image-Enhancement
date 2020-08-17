@@ -46,7 +46,7 @@ further image processing and the image is displayed.
 <p>
   <h5>Original Test Image</h5>
   <img src="sd.jpg" width="400" title="hover text">
-  <h5>Single Scale Retinex</h5>
+  <h5>Single Scale Retinex Enhancement</h5>
   <img src="SSR.jpg" width="400" alt="accessibility text">
   <h5>Multicale Retinex Enhancement</h5>
   <img src="MSR.jpg" width="400" alt="accessibility text">
