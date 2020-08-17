@@ -1,5 +1,5 @@
 # Retinex Image Enhancement
-Re``````tinex is the theory of human color vision proposed by Edwin Land to account for color sensations in real scenes.
+Retinex is the theory of human color vision proposed by Edwin Land to account for color sensations in real scenes.
 
 Retinex model is
 based on the following three assumptions:
